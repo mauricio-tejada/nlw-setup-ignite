@@ -1,46 +1,15 @@
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Taught%20by&message=Rocketseat&color=white&labelColor=8257E5" alt="Taught by Rocketseat">
-  <img src="https://img.shields.io/github/forks/lucasfontesgaspareto/nlw-setup-ignite?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
-  <img src="https://img.shields.io/github/stars/lucasfontesgaspareto/nlw-setup-ignite?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
-</p>
+# NLW Setup - Ignite
+
+Habit tracking application developed during Rocketseat's NLW event.
 
 ![](./.github/cover.png)
-
-<br>
-<br>
-
-# Habitto.life 💪
-
-## 🧪 Technologies
-
-This project was developed using the following technologies:
-
-- [NodeJS](https://nodejs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Fastify](https://www.fastify.io/)
-- [Prisma](https://www.prisma.io/)
-- [ViteJS](https://vitejs.dev/)
-- [ReactJS](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-
-## 🧪 SOLID
-
-Principles:
-
-- Single Responsibility Principle: Each class has a unique responsibility;
-- Open/Closed Principle: Application classes must be open for extension but closed for modification;
-- Liskov Substitution Principle: We should be able to replace a parent class with an inheritance from it and everything still works;
-- Interface Segregation Principle: Segregate Interfaces;
-- Dependency Inversion Principle: Instead of the class fetching the dependencies it needs, the context informs the class of the required dependencies;
 
 ## 🚀 Getting started
 
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/lucasfontesgaspareto/nlw-setup-ignite.git
+$ git clone https://github.com/mauricio-tejada/nlw-setup-ignite
 $ cd nlw-setup-ignite
 ```
 
@@ -80,6 +49,18 @@ $ npm install
 $ npm start
 ```
 
+## 🧪 Technologies
+
+- [NodeJS](https://nodejs.org/)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [ViteJS](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Expo](https://expo.io/)
+
 ## 🔖 Layout
 
 You can view the project layout through the links below:
@@ -90,4 +71,3 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-Made with 💜 by [lucasfontesgaspareto](https://github.com/lucasfontesgaspareto)👋
