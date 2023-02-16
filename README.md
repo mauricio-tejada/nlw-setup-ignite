@@ -2,7 +2,7 @@
 
 Habit tracking application developed during Rocketseat's NLW event.
 
-![](./.github/cover.png)
+![](./cover.png)
 
 ## 🚀 Getting started
 
